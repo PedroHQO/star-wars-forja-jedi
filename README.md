@@ -1,6 +1,6 @@
 # 🌌 Star Wars: A Forja da Força (May the 4th)
 
-![Terminal Executando a Forja da Força](coloque-o-link-ou-caminho-da-imagem-aqui.png)
+<img width="1209" height="572" alt="saida-terminal" src="https://github.com/user-attachments/assets/7a30a5c5-fade-4815-8299-b6f12108b11e" />
 
 ## 📜 Sobre o Projeto
 Desenvolvido em celebração ao **May the 4th**, este projeto é uma aplicação de linha de comando (CLI) que simula a criação de um utilizador da Força. O foco principal foi a aplicação prática dos pilares da **Programação Orientada a Objetos (POO)** e a implementação do padrão de projeto **Factory Method** em Java puro.
